@@ -6,4 +6,9 @@
 
 Information Architecture
 
-1.
+   1. Main page
+   2. About page
+   3. Contact Us 
+   4. Time line 
+   5. picture 
+   6.women's right in different country 
