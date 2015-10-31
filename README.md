@@ -10,11 +10,15 @@
    3. **After black people won the right to vote**
       1. What life has been like since black people won the right to vote
 
-Information Architecture/Site map
+##II. Information Architecture/Site map
 
-   1. Main page
-   2. About page
-   3. Contact Us 
-   4. Time line 
-   5. pictures 
-   6. women's right in different countries
+   1. **Main page**
+      1. Our project title
+      2. Basic summary of the project
+      3. 2 to 3 images
+   2. **Before**
+      1. 
+   3. **During**
+      1. 
+   4. **After**
+      1. 
