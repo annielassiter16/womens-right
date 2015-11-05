@@ -13,8 +13,8 @@
 ##II. Information Architecture/Site map
 
    1. **Main page**
-      1. Our project title
-      2. Basic summary of the project
+      1. Black People Rights To Vote 
+      2. During the civil rights movement, black poeple didnt have the write to vote fairly its was (Notes)
       3. 2 to 3 images
    2. **Before**
       1. 
